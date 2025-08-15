@@ -1,0 +1,10 @@
+1. Crie um programa que declare três variáveis: nome (String), idade (int) e salario (double). Atribua valores a elas e, em seguida, imprima uma frase no console que combine todas as variáveis.
+Exemplo de saída: "Olá, [seu nome]! Você tem [sua idade] anos e seu salário é de R$ [seu salário]."
+
+2. Escreva um programa que declare duas variáveis inteiras, a e b. Atribua valores a elas e, depois, declare uma terceira variável soma que receba a soma de a e b.
+Imprima o resultado.
+
+3. Crie um programa que peça ao usuário para digitar sua altura (em metros) e seu peso (em quilogramas). O programa deve ler esses dois valores e, em seguida, imprimir uma mensagem como "Sua altura é [alturalm e seu peso é [pesolkg."
+Dica: Use a classe Scanner para ler os dados do teclado.
+
+4. Desenvolva um programa que solicite ao usuário que digite seu nome e, em seguida, imprima uma mensagem de saudação personalizada, como "Bem-vindo, [nome do usuário]!".
